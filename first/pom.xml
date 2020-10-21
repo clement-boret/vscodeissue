@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vscodeissue</groupId>
 	<artifactId>first</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>first</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -47,14 +47,5 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 
 </project>
